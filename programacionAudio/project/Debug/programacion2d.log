@@ -1,8 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (programacion2d.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
-  main.cpp
-c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
-  d:\documentos\practica 6\programacionaudio\lib\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
-d:\documentos\practica 6\programacionaudio\lib\litegfx.h(372): warning C4244: 'argumento': conversión de 'const int' a 'float'; posible pérdida de datos
-d:\documentos\practica 6\programacionaudio\src\main.cpp(69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
-  programacion2d.vcxproj -> D:\Documentos\Practica 6\programacionAudio\project\Debug\programacionAudio.exe
